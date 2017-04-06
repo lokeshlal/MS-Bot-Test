@@ -1,4 +1,4 @@
-# MS bot framework functional test case utility
+# MS bot framework functional testing utility
 
 This repository contains the basic code to start writing the functional regression test suite for chat bot written using MS Bot Framework.
 This can be enhanced further to have a fancy UI and robust reporting.
