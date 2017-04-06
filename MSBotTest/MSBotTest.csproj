@@ -72,7 +72,6 @@
     <None Include="App.config" />
     <None Include="BotTestCases.xlsx" />
     <None Include="packages.config" />
-    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="index_tab.PNG" />
